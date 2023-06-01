@@ -15,8 +15,8 @@ To view the website, visit https://jubernst.github.io/code-refactor/
 
 Website screenshots:
 
-![a screenshot of the website](assets/images/screenshot1.png)
-![a screenshot of the website](assets/images/screenshot2.png)
+![a screenshot of the website](assets/images/screenshot1.png?raw=true)
+![a screenshot of the website](assets/images/screenshot2.png?raw=true)
 
 ## License
 
